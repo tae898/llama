@@ -1,6 +1,10 @@
 # Testing Meta-Llama-3.1-8B-Instruct model
 
-I learned most of the stuff from here: https://huggingface.co/blog/llama31
+Check out my blog post:
+[https://taewoon.kim/2024-08-29-llama/](https://taewoon.kim/2024-08-29-llama/)
+
+I learned most of the stuff from here:
+[https://huggingface.co/blog/llama31](https://huggingface.co/blog/llama31)
 
 ## Tested machine specs
 
