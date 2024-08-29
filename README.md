@@ -22,9 +22,10 @@ Run `pip install -r requirements.txt` to install the necessary python packages.
 ## Model loading
 
 - Get the llama license
-  - https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct
+  - [https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct)
 - You first have to login to HuggingFace from your machine: `huggingface-cli login`.
-  - Use your HF authentication token: https://huggingface.co/settings/tokens
+  - Use your HF authentication token:
+    [https://huggingface.co/settings/tokens](https://huggingface.co/settings/tokens)
 - Stored model location
   - `~/.cache/huggingface/hub/models--meta-llama--Meta-Llama-3.1-8B-Instruct`
   - It's about 15GB
